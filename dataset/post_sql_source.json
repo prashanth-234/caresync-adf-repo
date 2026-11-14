@@ -1,0 +1,12 @@
+{
+	"name": "post_sql_source",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_Postsql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlV2Table",
+		"schema": []
+	}
+}
